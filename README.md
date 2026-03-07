@@ -24,5 +24,5 @@ The pipeline handles data filtering from .geojson files, label extraction from r
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 
-#### Note: 
+Note: 
 I acknowledge some use of AI and chatgpt.com for this project especially in creating a custom CNN model.
