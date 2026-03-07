@@ -26,3 +26,6 @@ The pipeline handles data filtering from .geojson files, label extraction from r
 
 Note: 
 I acknowledge some use of AI and chatgpt.com for this project especially in creating a custom CNN model.
+
+- For image dataset , use the following kaggle link:
+https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed?select=rgb
